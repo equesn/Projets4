@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .8);
+    color: rgba(255, 255, 255, .9);
 }
 
 .d-bloc .a-btn:hover,
@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .7);
+    color: rgba(0, 0, 0, .8);
 }
 
 .d-bloc .panel button:hover,
@@ -737,7 +737,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
-    font-weight: bold;
+    
 }
 
 .portfolio-thumb {
@@ -777,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #fce1d5 !important;
+    color: #f5efed !important;
 }
 
 .btn-atomic-tangerine {
